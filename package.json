@@ -1,0 +1,24 @@
+{
+  "name": "json_mocker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+   
+
+    "start": "node server.js"  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirtaj786/json_mocker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirtaj786/json_mocker/issues"
+  },
+  "homepage": "https://github.com/sirtaj786/json_mocker#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
